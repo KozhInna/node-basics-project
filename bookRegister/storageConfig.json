@@ -1,0 +1,5 @@
+{
+  "storageFile": "Kozhina_Inna_books.json",
+  "adapterFile": "bookAdapter.js",
+  "primary_key": "bookID"
+}
