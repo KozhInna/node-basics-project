@@ -75,7 +75,7 @@
 
   function createBook(book) {
     return `<div class="book">
-        <p>id: ${book.bookID}</p>
+        <p>BookID: ${book.bookID}</p>
         <p>Name: ${book.name}</p>
         <p>Author: ${book.author}</p>
         <p>Topic: ${book.topic}</p>
